@@ -1,5 +1,5 @@
 Preparation:
-clone repository mods factorio directory
+clone repository in mods factorio directory
 ```
 git clone https://github.com/VOXEL0798/tsexample.git
 cd tsexample
