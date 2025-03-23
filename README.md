@@ -5,7 +5,7 @@ git clone https://github.com/VOXEL0798/tsexample.git
 cd tsexample
 ```
 
-Write on termimal
+Write in termimal
 
 ```
 npm install typed-factorio
