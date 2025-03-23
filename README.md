@@ -11,11 +11,11 @@ Write in termimal
 npm install typed-factorio
 ```
 
-Using linux:
-Run bash script `extract.sh`
+Linux:
+Run script `extract.sh`
 
-Using windows:
-Run bat script `extract.bat`
+Windows:
+Run script `extract.bat`
 
 it will extract the `build` directory and rename it according to the `info.json` configuration
 
