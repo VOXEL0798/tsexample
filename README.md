@@ -3,11 +3,6 @@ clone repository in mods factorio directory
 ```
 git clone https://github.com/VOXEL0798/tsexample.git
 cd tsexample
-```
-
-Write in termimal
-
-```
 npm install typed-factorio
 ```
 
